@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋 I'm Kawsar Ahmed</h1>
-<h3 align="center">Welcome to my GitHub profile! I'm a passionate Data Analyst with a keen interest in leveraging data to derive meaningful insights.</h3>
+<h1 align="center">Hi 👋, I'm Kawsar Ahmed</h1>
+<h3 align="center">Welcome to my GitHub profile! I'm a passionate data analyst with a keen interest in leveraging data to derive meaningful insights.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kawsarahmedmaruf&label=Profile%20views&color=0e75b6&style=flat" alt="kawsarahmedmaruf" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **- Data preprocessing techniques for cleaning and transforming datasets. - Advanced statistical methods for robust analysis.**
 
-- 👯 I’m looking to collaborate on [Student Performance Analysis Project](Student Performance Analysis Project)
+- 👯 I’m looking to collaborate on [Student Performance Analysis Project](https://github.com/KawsarAhmedMaruf/Student-Performance-Analysis-Project)
 
 - 💬 Ask me about **- Data analysis methodologies. - Python programming for data science. - Tips for effective data visualization.**
 
