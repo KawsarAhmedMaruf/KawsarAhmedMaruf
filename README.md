@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kawsar-ahmed-maruf-4a3019298/) [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:kawsarahmedmaruf10@gmail.com)**
 
-- 📄 Know about my experiences [file:///C:/Users/mrpai/Downloads/data%20analyst%20resume.pdf](file:///C:/Users/mrpai/Downloads/data%20analyst%20resume.pdf)
+- 📄 Know about my experiences [https://1drv.ms/w/s!AoInxet9NIEs4UU1StLCoFw14r5f?e=a4bvhB](https://1drv.ms/w/s!AoInxet9NIEs4UU1StLCoFw14r5f?e=a4bvhB)
 
 - ⚡ Fun fact **- Fun fact time! Did you know I once discovered a hidden pattern in data that led to a breakthrough insight? Data analysis, like life, is full of fascinating discoveries waiting to be revealed! 📊✨**
 
