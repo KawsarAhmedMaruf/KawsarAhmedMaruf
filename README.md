@@ -25,11 +25,8 @@ Welcome to my GitHub profile! I'm a passionate data analyst with a keen interest
 
 ## 📫 How to Reach Me
 
-## 📫 How to Reach Me
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kawsar-ahmed-maruf-4a3019298/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:kawsarahmedmaruf10@gmail.com)
-
 
 ## 😄 Pronouns
 
@@ -39,5 +36,4 @@ Welcome to my GitHub profile! I'm a passionate data analyst with a keen interest
 
 - Fun fact time! Did you know I once discovered a hidden pattern in data that led to a breakthrough insight? Data analysis, like life, is full of fascinating discoveries waiting to be revealed! 📊✨
 
-
-Feel free to explore my repositories and connect with me. Let's collaborate and make data tell its story! 📊📈
+[![Kawsar's GitHub Stats](https
