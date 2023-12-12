@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on [Student Performance Analysis Project](https://github.com/KawsarAhmedMaruf/Student-Performance-Analysis-Project)
 
-- 🌱 I’m currently learning **⭕ Advanced data preprocessing techniques for cleaning and transforming datasets. ⭕ Advanced statistical methods for robust analysis.**
+- 🌱 I’m currently learning **⭕ Amazon Web Services (AWS) to enhance my skills in cloud computing ⭕ Advanced statistical methods for robust analysis**
 
 - 👯 I’m looking to collaborate on [Student Performance Analysis Project](https://github.com/KawsarAhmedMaruf/Student-Performance-Analysis-Project)
 
-- 💬 Ask me about **⭕ Data analysis methodologies. ⭕ Python programming for data science. ⭕ Tips for effective data visualization.**
+- 💬 Ask me about **⭕ Data analysis methodologies ⭕ Python programming for data science. ⭕ Tips for effective data visualization**
 
 - 📫 How to reach me **[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kawsar-ahmed-maruf-4a3019298/) [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:kawsarahmedmaruf10@gmail.com)**
 
