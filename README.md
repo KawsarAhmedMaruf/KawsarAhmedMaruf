@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Student Performance Analysis Project](https://github.com/KawsarAhmedMaruf/Student-Performance-Analysis-Project)
 
-- 🌱 I’m currently learning **⭕ Data preprocessing techniques for cleaning and transforming datasets. ⭕ Advanced statistical methods for robust analysis.**
+- 🌱 I’m currently learning **⭕ Advanced data preprocessing techniques for cleaning and transforming datasets. ⭕ Advanced statistical methods for robust analysis.**
 
 - 👯 I’m looking to collaborate on [Student Performance Analysis Project](https://github.com/KawsarAhmedMaruf/Student-Performance-Analysis-Project)
 
