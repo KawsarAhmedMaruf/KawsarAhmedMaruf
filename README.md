@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Kawsar Ahmed
 
 Welcome to my GitHub profile! I'm a passionate data analyst with a keen interest in leveraging data to derive meaningful insights.
 
@@ -25,15 +25,19 @@ Welcome to my GitHub profile! I'm a passionate data analyst with a keen interest
 
 ## 📫 How to Reach Me
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile/)
-- Twitter: [Your Twitter Handle](https://twitter.com/your-twitter-handle)
+## 📫 How to Reach Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kawsar-ahmed-maruf-4a3019298/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:kawsarahmedmaruf10@gmail.com)
+
 
 ## 😄 Pronouns
 
-- [He/She/They] (Choose the appropriate pronouns for yourself)
+- Embracing [he/him], [she/her], or [they/them] pronouns with joy! 🌈
 
 ## ⚡ Fun Fact
 
-- I once [insert a fun fact about yourself!]
+- Fun fact time! Did you know I once discovered a hidden pattern in data that led to a breakthrough insight? Data analysis, like life, is full of fascinating discoveries waiting to be revealed! 📊✨
+
 
 Feel free to explore my repositories and connect with me. Let's collaborate and make data tell its story! 📊📈
